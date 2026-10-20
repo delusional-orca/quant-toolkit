@@ -1,3 +1,5 @@
+#Educational use only. Not investment advice. I am not a registered adviser. Past performance does not predict future results.”
+
 # Quant Toolkit
 
 A command-line toolkit for price generation, strategy backtests
